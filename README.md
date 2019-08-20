@@ -1,5 +1,7 @@
 # Hello
 
+The step when learning new code or framework
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
